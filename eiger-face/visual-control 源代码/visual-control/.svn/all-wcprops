@@ -1,0 +1,75 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 14
+/svn/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8/trunk/visual-control/visual-control
+END
+visualcontrol.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/visual-control/visual-control/visualcontrol.qrc
+END
+visualcontrol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/visual-control/visual-control/visualcontrol.cpp
+END
+webcamwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/visual-control/visual-control/webcamwidget.cpp
+END
+logger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/visual-control/visual-control/logger.cpp
+END
+visual-control.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/23/trunk/visual-control/visual-control/visual-control.vcxproj.filters
+END
+visualcontrol.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/visual-control/visual-control/visualcontrol.h
+END
+visual-control.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/visual-control/visual-control/visual-control.vcproj
+END
+webcamwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/visual-control/visual-control/webcamwidget.h
+END
+logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/visual-control/visual-control/logger.h
+END
+visual-control.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/visual-control/visual-control/visual-control.vcxproj
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/visual-control/visual-control/main.cpp
+END

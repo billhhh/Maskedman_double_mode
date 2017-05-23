@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="visual-control">
+</Property><Property Name="Solution File" Value="H:\Projects\c++0x\visual-control\visual-control.sln">
+</Property><Property Name="Date" Value="woensdag 8 december 2010">
+</Property><Property Name="Time" Value="22:45">
+</Property></Properties><Event ErrorLevel="0" Project="visual-control" Source="visual-control\visual-control.vcproj" Description="Converting project file 'H:\Projects\c++0x\visual-control\visual-control\visual-control.vcproj'.">
+</Event><Event ErrorLevel="1" Project="visual-control" Source="visual-control\visual-control.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="visual-control" Source="visual-control\visual-control.vcproj" Description="Done converting to new project file 'H:\Projects\c++0x\visual-control\visual-control\visual-control.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="visual-control" Source="visual-control\visual-control.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="visual-control.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="visual-control.sln" Description="Converted">
+</Event></UpgradeLog>

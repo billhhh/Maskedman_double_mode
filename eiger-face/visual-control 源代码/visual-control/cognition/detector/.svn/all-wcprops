@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8/trunk/visual-control/visual-control/cognition/detector
+END
+detailedfacedetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/19/trunk/visual-control/visual-control/cognition/detector/detailedfacedetector.cpp
+END
+facedetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/17/trunk/visual-control/visual-control/cognition/detector/facedetector.cpp
+END
+detailedfacedetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/19/trunk/visual-control/visual-control/cognition/detector/detailedfacedetector.h
+END
+facedetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/18/trunk/visual-control/visual-control/cognition/detector/facedetector.h
+END
