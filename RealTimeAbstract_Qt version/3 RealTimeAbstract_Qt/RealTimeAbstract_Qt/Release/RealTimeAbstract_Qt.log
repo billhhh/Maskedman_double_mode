@@ -1,0 +1,49 @@
+﻿生成启动时间为 2014/10/9 18:06:33。
+     1>项目“E:\Project\RealTimeAbstract_Qt\RealTimeAbstract_Qt\RealTimeAbstract_Qt.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Release\RealTimeAbstract_Qt.unsuccessfulbuild”执行 Touch 任务。
+       CustomBuild:
+         所有输出均为最新。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Project\RealTimeAbstract_Qt\Win32\Release\\RealTimeAbstract_Qt.exe" /NOLOGO /LIBPATH:D:\Qt\4.8.2\lib qtmain.lib QtCore4.lib QtGui4.lib opencv_calib3d246.lib opencv_contrib246.lib opencv_core246.lib opencv_features2d246.lib opencv_flann246.lib opencv_gpu246.lib opencv_highgui246.lib opencv_imgproc246.lib opencv_legacy246.lib opencv_ml246.lib opencv_nonfree246.lib opencv_objdetect246.lib opencv_ocl246.lib opencv_photo246.lib opencv_stitching246.lib opencv_superres246.lib opencv_ts246.lib opencv_video246.lib opencv_videostab246.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\RealTimeAbstract_Qt.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"E:\Project\RealTimeAbstract_Qt\Win32\Release\RealTimeAbstract_Qt.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Project\RealTimeAbstract_Qt\Win32\Release\RealTimeAbstract_Qt.lib" /MACHINE:X86 Release\abstractform.obj
+         Release\abstractplayer.obj
+         Release\abstractsearchform.obj
+         Release\drawform.obj
+         Release\EventNode.obj
+         Release\EventNodeOperation.obj
+         Release\FileOperation.obj
+         Release\moc_abstractform.obj
+         Release\moc_abstractplayer.obj
+         Release\moc_abstractsearchform.obj
+         Release\moc_drawform.obj
+         Release\moc_playthread.obj
+         Release\moc_realtimesetting.obj
+         Release\moc_setting_widget.obj
+         Release\moc_videoabstract_qtver.obj
+         Release\moc_VideoAnalyze.obj
+         Release\Globals.obj
+         Release\playthread.obj
+         Release\realtimesetting.obj
+         Release\realtimethread.obj
+         Release\qrc_mainwindow.obj
+         Release\moc_mainwindow.obj
+         Release\moc_realtimethread.obj
+         Release\main.obj
+         Release\mainwindow.obj
+         Release\setting_widget.obj
+         Release\videoabstract_qtver.obj
+         Release\VideoAnalyze.obj
+         RealTimeAbstract_Qt.vcxproj -> E:\Project\RealTimeAbstract_Qt\Win32\Release\RealTimeAbstract_Qt.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\Project\RealTimeAbstract_Qt\Win32\Release\\RealTimeAbstract_Qt.exe;#1" /manifest Release\RealTimeAbstract_Qt.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\RealTimeAbstract_Qt.unsuccessfulbuild”。
+         正在对“Release\RealTimeAbstract_Qt.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\Project\RealTimeAbstract_Qt\RealTimeAbstract_Qt\RealTimeAbstract_Qt.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.09
