@@ -1,0 +1,28 @@
+﻿生成启动时间为 2014/10/11 10:59:26。
+     1>项目“E:\Project\MaskedManInQt\MaskedManInQt\MaskedManInQt.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\MaskedManInQt.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         所有输出均为最新。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\4.8.2\include /I.\GeneratedFiles\Debug /ID:\Qt\4.8.2\include\QtCore /ID:\Qt\4.8.2\include\QtGui /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D QT_LARGEFILE_SUPPORT /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt playThread.cpp
+         playThread.cpp
+         所有输出均为最新。
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Project\MaskedManInQt\Win32\Debug\\MaskedManInQt.exe" /NOLOGO /LIBPATH:D:\Qt\4.8.2\lib opencv_calib3d246d.lib opencv_contrib246d.lib opencv_core246d.lib opencv_features2d246d.lib opencv_flann246d.lib opencv_gpu246d.lib opencv_highgui246d.lib opencv_imgproc246d.lib opencv_legacy246d.lib opencv_ml246d.lib opencv_objdetect246d.lib opencv_ts246d.lib opencv_video246d.lib qtmaind.lib QtCored4.lib QtGuid4.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\MaskedManInQt.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Project\MaskedManInQt\Win32\Debug\MaskedManInQt.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Project\MaskedManInQt\Win32\Debug\MaskedManInQt.lib" /MACHINE:X86 /PROFILE Debug\moc_maskedmaninqt.obj
+         Debug\moc_playThread.obj
+         Debug\qrc_maskedmaninqt.obj
+         Debug\main.obj
+         Debug\maskedmaninqt.obj
+         Debug\playThread.obj
+         MaskedManInQt.vcxproj -> E:\Project\MaskedManInQt\Win32\Debug\MaskedManInQt.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\Project\MaskedManInQt\Win32\Debug\\MaskedManInQt.exe;#1" /manifest Debug\MaskedManInQt.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\MaskedManInQt.unsuccessfulbuild”。
+         正在对“Debug\MaskedManInQt.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\Project\MaskedManInQt\MaskedManInQt\MaskedManInQt.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.52
